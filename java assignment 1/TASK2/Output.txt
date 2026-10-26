@@ -1,0 +1,12 @@
+Compile command:
+javac Task02DataRepresentation.java
+
+Run command:
+java Task02DataRepresentation
+
+Terminal output:
+Floor: 1, Slot: 2
+Entry time (epoch ms): 1761411600000
+Duration: 61 minutes; billable hours: 2
+Fee: Rs 60.0
+Jagged array floors: 3
