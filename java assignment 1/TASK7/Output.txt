@@ -1,0 +1,10 @@
+Compile command:
+javac Task07Overriding.java
+
+Run command:
+java Task07Overriding
+
+Terminal output:
+FeeVehicle(TN01A1) -> Rs 40.0
+FeeCar(TN02B2) -> Rs 60.0
+Same registration means equal: true
