@@ -1,0 +1,12 @@
+Compile command:
+javac Task06Inheritance.java
+
+Run command:
+java Task06Inheritance
+
+Terminal output:
+VehicleBase constructor
+CarBase constructor
+ElectricCarBase constructor
+Created EV registration: TN03C3
+Hierarchy: VehicleBase -> CarBase -> ElectricCarBase
