@@ -1,0 +1,9 @@
+Compile command:
+javac Task10Encapsulation.java
+
+Run command:
+java Task10Encapsulation
+
+Terminal output:
+Validated slot number: 4
+Rejected invalid update: Slot number cannot be negative
