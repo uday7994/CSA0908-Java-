@@ -1,0 +1,9 @@
+Compile command:
+javac Task09Abstraction.java
+
+Run command:
+java Task09Abstraction
+
+Terminal output:
+Student: Asha
+Valid monthly pass: true
