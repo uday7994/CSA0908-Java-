@@ -1,0 +1,10 @@
+Compile command:
+javac Task04Constructors.java
+
+Run command:
+java Task04Constructors
+
+Terminal output:
+Ticket #101 for UNKNOWN
+Ticket #102 for TN01AB1111
+Overloaded constructors use this() to share initialization.
