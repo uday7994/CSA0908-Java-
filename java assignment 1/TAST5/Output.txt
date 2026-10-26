@@ -1,0 +1,12 @@
+Compile command:
+javac Task05StaticMembers.java
+
+Run command:
+java Task05StaticMembers
+
+Terminal output:
+North gate ticket: 1000
+South gate ticket: 1001
+A shared static counter prevents reuse across facility objects.
+Active ticket for TN01AB1111
+Reference cleared; object may be garbage-collected when unreferenced.
