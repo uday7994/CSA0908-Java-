@@ -1,0 +1,12 @@
+Compile command:
+javac Task12DesignChallenge.java
+
+Run command:
+java Task12DesignChallenge
+
+Terminal output:
+ChallengeCar TN01CAR -> Rs 60.0
+EBike TN02EBK -> Rs 25.0
+DeliveryVan TN03VAN -> Rs 120.0
+Visitor one-day pass valid: true
+Jagged floor capacities: [20, 25, 30, 35, 40]
