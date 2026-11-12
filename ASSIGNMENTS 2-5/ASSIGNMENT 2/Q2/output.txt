@@ -1,0 +1,13 @@
+\nPlaylist size: 1000
+ArrayList  addEnd 0.323 ms | indexedGet 0.260 ms | iterate 0.348 ms
+LinkedList addEnd 0.316 ms | indexedGet 0.979 ms | iterate 0.384 ms
+ArrayDeque addLast+removeFirst 0.513 ms
+\nPlaylist size: 5000
+ArrayList  addEnd 0.389 ms | indexedGet 0.236 ms | iterate 0.315 ms
+LinkedList addEnd 0.478 ms | indexedGet 8.617 ms | iterate 0.382 ms
+ArrayDeque addLast+removeFirst 0.800 ms
+\nPlaylist size: 10000
+ArrayList  addEnd 0.871 ms | indexedGet 0.604 ms | iterate 0.773 ms
+LinkedList addEnd 0.714 ms | indexedGet 28.915 ms | iterate 0.726 ms
+ArrayDeque addLast+removeFirst 1.692 ms
+\nNote: timing depends on JVM, machine load and warm-up.
