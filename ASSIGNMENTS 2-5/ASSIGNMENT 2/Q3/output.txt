@@ -1,0 +1,4 @@
+Faulty HashSet size (may show duplicate): 2
+Correct HashSet size: 2
+Unique students: [192311001 Arun, 192311002 Divya]
+TreeSet size using regNo comparator: 1
