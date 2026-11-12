@@ -1,0 +1,2 @@
+[Eagles(9,6), Bisons(9,4), Panthers(9,4), Cobras(6,1)]
+Bisons ranks above Panthers alphabetically after equal points and goal difference.
