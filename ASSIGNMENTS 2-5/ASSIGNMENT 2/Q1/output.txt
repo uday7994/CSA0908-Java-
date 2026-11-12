@@ -1,0 +1,13 @@
+\nWorkload: 1 tickets x 5 fields
+String +       average: 2.553 ms
+StringBuilder  average: 0.023 ms
+StringBuffer   average: 0.022 ms
+\nWorkload: 1000 tickets x 20 fields
+String +       average: 24.529 ms
+StringBuilder  average: 4.187 ms
+StringBuffer   average: 3.769 ms
+\nWorkload: 3000 tickets x 50 fields
+String +       average: 329.136 ms
+StringBuilder  average: 9.111 ms
+StringBuffer   average: 23.553 ms
+\nRecommendation: StringBuilder for local ticket creation; StringBuffer for shared synchronized appends.
