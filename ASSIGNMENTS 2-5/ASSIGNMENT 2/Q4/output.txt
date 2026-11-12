@@ -1,0 +1,15 @@
+HashMap lookup M102: M102 VitaminC stock=200
+\nTreeMap report (code order):
+M101 Amoxicillin stock=80
+M102 VitaminC stock=200
+M103 Paracetamol stock=120
+M104 Ibuprofen stock=90
+M105 Cetirizine stock=60
+\nLinkedHashMap report (insertion order):
+M103 Paracetamol stock=120
+M101 Amoxicillin stock=80
+M105 Cetirizine stock=60
+M102 VitaminC stock=200
+M104 Ibuprofen stock=90
+\n100000 HashMap lookups: 4.292 ms
+HashMap: average O(1) lookup; TreeMap: O(log n); LinkedHashMap: average O(1).
