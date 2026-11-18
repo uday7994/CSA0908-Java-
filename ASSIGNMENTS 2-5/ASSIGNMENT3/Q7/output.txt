@@ -1,0 +1,6 @@
+Handled: Corrupt score file 7
+Handled: Corrupt score file 14
+Handled: Corrupt score file 21
+Handled: Corrupt score file 28
+Successful files: 26
+Failed files: 4
