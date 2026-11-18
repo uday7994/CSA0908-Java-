@@ -1,0 +1,9 @@
+Consumed token: 1
+Consumed token: 2
+Consumed token: 3
+Consumed token: 4
+Consumed token: 5
+Consumed token: 6
+Consumed token: 7
+Consumed token: 8
+Counter remaining: 0
