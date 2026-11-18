@@ -1,0 +1,12 @@
+Valid request:
+Cash dispensed: 500
+ATM session closed
+\nInvalid text:
+Input error: enter a number
+ATM session closed
+\nNegative amount:
+Withdrawal failed: Amount must be positive
+ATM session closed
+\nOver balance:
+Withdrawal failed: Insufficient balance
+ATM session closed
