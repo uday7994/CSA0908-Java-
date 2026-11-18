@@ -1,0 +1,9 @@
+Station 2 scanning
+Station 1 scanning
+Station 4 scanning
+Station 3 scanning
+Station 1 completed 25 scripts
+Station 2 completed 25 scripts
+Station 3 completed 25 scripts
+Station 4 completed 25 scripts
+All scanner stations completed.
