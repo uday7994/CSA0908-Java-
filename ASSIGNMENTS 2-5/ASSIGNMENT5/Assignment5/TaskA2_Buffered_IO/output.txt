@@ -1,0 +1,11 @@
+COMPILATION ERROR:
+/mnt/data/CSA09_Java_Assignments3_4_5/Assignment5/TaskA2_Buffered_IO/Main.java:4: error: unclosed character literal
+ static long countByte(Path p)throws IOException{long n=0;try(InputStream in=Files.newInputStream(p)){int b;while((b=in.read())!=-1)if(b=='\\n')n++;}return n;}
+                                                                                                                                          ^
+/mnt/data/CSA09_Java_Assignments3_4_5/Assignment5/TaskA2_Buffered_IO/Main.java:4: error: unclosed character literal
+ static long countByte(Path p)throws IOException{long n=0;try(InputStream in=Files.newInputStream(p)){int b;while((b=in.read())!=-1)if(b=='\\n')n++;}return n;}
+                                                                                                                                              ^
+/mnt/data/CSA09_Java_Assignments3_4_5/Assignment5/TaskA2_Buffered_IO/Main.java:4: error: not a statement
+ static long countByte(Path p)throws IOException{long n=0;try(InputStream in=Files.newInputStream(p)){int b;while((b=in.read())!=-1)if(b=='\\n')n++;}return n;}
+                                                                                                                                             ^
+3 errors

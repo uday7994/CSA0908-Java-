@@ -1,0 +1,4 @@
+Unsafe SQL: SELECT * FROM users WHERE id='admin' AND pwd='' OR '1'='1'
+Adversarial password accepted by unsafe logic: true
+PreparedStatement query: SELECT * FROM users WHERE id=? AND pwd=?
+With placeholders, attack text is treated as data, not SQL.

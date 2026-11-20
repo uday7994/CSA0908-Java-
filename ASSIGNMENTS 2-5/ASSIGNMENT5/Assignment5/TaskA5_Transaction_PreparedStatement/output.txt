@@ -1,0 +1,2 @@
+Safe login SQL: SELECT * FROM users WHERE id=? AND pwd=?
+Wallet transfer: debit + credit are committed together or rolled back.

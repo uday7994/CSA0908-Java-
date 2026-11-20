@@ -1,0 +1,3 @@
+Migration plan: validate text records, batch insert, commit once; report invalid rows.
+Production choice: shared relational database for concurrent campus counters.
+Connect a JDBC driver and database to run printMetadata(Connection).

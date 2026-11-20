@@ -1,0 +1,4 @@
+Valid pass: P1001
+Skipped damaged line: P1002,DAMAGED
+Valid pass: P1003
+Valid records: 2, damaged: 1

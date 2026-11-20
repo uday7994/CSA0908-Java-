@@ -1,0 +1,2 @@
+Batch loader ready: batches of 1000 inside one transaction.
+Requires a configured JDBC Connection and bus_pass table.
