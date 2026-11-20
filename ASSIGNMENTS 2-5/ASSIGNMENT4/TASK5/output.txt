@@ -1,0 +1,4 @@
+1000 INR to USD: 12.00 USD
+500 INR to EUR: 5.50 EUR
+Bad input: Invalid amount
+Handler styles: frame, named inner, anonymous inner, lambda.
