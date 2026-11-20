@@ -1,0 +1,4 @@
+Registered: 192411203
+Registered: 192411204
+Rejected: Duplicate registration
+TechFest rows: 1
