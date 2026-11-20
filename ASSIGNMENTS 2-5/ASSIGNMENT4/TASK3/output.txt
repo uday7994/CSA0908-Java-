@@ -1,0 +1,5 @@
+Clicks: 3
+Stored point: 20,30
+Stored point: 60,80
+Stored point: 100,40
+paint() redraws stored points after repaint/minimise/restore.
