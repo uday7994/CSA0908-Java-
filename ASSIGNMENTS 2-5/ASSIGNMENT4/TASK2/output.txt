@@ -1,0 +1,2 @@
+Department changed -> doctor list refreshed: [Dr Rao, Dr Mehta]
+Appointment confirmed: P1001 | Cardiology | Dr Rao | 10:30 AM
